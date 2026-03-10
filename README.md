@@ -83,9 +83,6 @@ Comprehensive automation framework for SailPoint user lifecycle testing includin
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthiravi007&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Parthiravi007&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiravi007&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ---
